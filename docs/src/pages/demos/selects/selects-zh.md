@@ -26,7 +26,7 @@ components: Select, NativeSelect
 
 {{"demo": "pages/demos/selects/MultipleSelect.js"}}
 
-## Controlled open Select
+## 受控的选择器
 
 {{"demo": "pages/demos/selects/ControlledOpenSelect.js"}}
 
