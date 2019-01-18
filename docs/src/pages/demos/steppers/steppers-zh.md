@@ -94,6 +94,6 @@ components: MobileStepper, Step, StepButton, StepConnector, StepContent, StepIco
 
 ### 移动设备步进器 - 进度条
 
-Use a progress bar when there are many steps, or if there are steps that need to be inserted during the process (based on responses to earlier steps).
+当有许多步骤时，或者如果在此过程中需要插入步骤（基于对早期步骤的响应），请使用进度条。
 
 {{"demo": "pages/demos/steppers/ProgressMobileStepper.js"}}
