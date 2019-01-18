@@ -32,10 +32,10 @@ components: Card, CardActionArea, CardActions, CardContent, CardHeader, CardMedi
 
 {{"demo": "pages/demos/cards/ImgMediaCard.js"}}
 
-## UI Controls
+## UI控件
 
-Supplemental actions within the card are explicitly called out using icons, text, and UI controls, typically placed at the bottom of the card.
+卡片中的补充操作可使用图标、文本和 UI 控件显式调用, 通常放在一个卡片的底部。
 
-Here's an example of a media control card.
+下面是一个媒体控制卡片的例子。
 
 {{"demo": "pages/demos/cards/MediaControlCard.js"}}
