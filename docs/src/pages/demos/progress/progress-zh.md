@@ -96,7 +96,7 @@ If you have been reading the [overrides documentation page](/customization/overr
 
 在特别慢的加载时，可能丢失stroke dash动画或看到环形进度的半径随机的情况。 为了不阻塞主渲染进程，应该在web worker中或批处理中执行密集操作的处理器。
 
-![heavy load](/static/images/progress/heavy-load.gif)
+![慢加载](/static/images/progress/heavy-load.gif)
 
 当不能这样做的时候，你可以借助 `disableShrink` 特性来减轻这个问题。 见 https://github.com/mui-org/material-ui/issues/10327
 
