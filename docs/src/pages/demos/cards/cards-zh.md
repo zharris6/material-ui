@@ -16,19 +16,19 @@ components: Card, CardActionArea, CardActions, CardContent, CardHeader, CardMedi
 
 {{"demo": "pages/demos/cards/SimpleCard.js"}}
 
-## Complex Interaction
+## 复杂交互
 
-On desktop, card content can expand.
+在桌面上, 卡片内容可以展开。
 
 {{"demo": "pages/demos/cards/RecipeReviewCard.js"}}
 
-## Media
+## 多媒体内容
 
-Example of a card using an image to reinforce the content.
+下面是一个使用图像来增强内容的卡片示例。
 
 {{"demo": "pages/demos/cards/MediaCard.js"}}
 
-By default, we use the combination of a `<div>` element and a *background image* to display the media. It can be problematic in some situations. For instance, you might want to display a video or a responsive image. Use the `component` property for these use cases:
+默认情况下，我们使用给`<div>` 元素加一个 *背景图片* 的方式来显示多媒体元素。 但在某些情况下，可能会产生一些不可预知的问题。 例如, 您可能希望显示一个视频或一张响应式的图片。 对于这些用例, 请使用 `component` 属性:
 
 {{"demo": "pages/demos/cards/ImgMediaCard.js"}}
 
